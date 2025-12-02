@@ -13,8 +13,10 @@ tools:
   filesystem_edit_file: true
   filesystem_read_file: true
   uuv_retrieve_prompt: true
-  uuv_generate_role_and_name: true
-  uuv_generate_table: true
+  uuv_generate_test_expect_element: true
+  uuv_generate_test_click_element: true
+  uuv_generate_test_type_element: true
+  uuv_generate_test_within_element: true
   uuv_available_sentences: false
   uuv_get_base_url: false
 ---
